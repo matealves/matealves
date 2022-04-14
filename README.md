@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Mateus Alves
 
 - 📚 Cursando Ciência da Computação
-- 🌐 Estudando JavaScript
+- 🌐 Estudando React
+- ⏳ Estudando JavaScript
 - 🎓Formado em Finanças
 
  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matealves&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mateus Alves' github stats" /></a> <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=buefy&hide_border=true" /></a>
@@ -12,10 +13,12 @@
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Mateus-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="Mateus-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <!--<img align="center" alt="Mateus-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">-->
    <!--<img align="center" alt="Mateus-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> -->
-  <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Mateus-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<!--   <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Mateus-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> -->
  <!-- <img align="center" alt="Mateus-OracleSQL" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/oracle-logo-1.svg"> -->
 </div>
   
