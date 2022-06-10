@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Mateus Alves
 
 - 📚 Cursando Ciência da Computação
-- 🌐 Estudando React
 - ⏳ Estudando JavaScript
+- 🌐 Estudando React
 - 🎓Formado em Finanças
 
  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matealves&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mateus Alves' github stats" /></a> <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=buefy&hide_border=true" /></a>
