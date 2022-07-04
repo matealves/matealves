@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Mateus Alves
 
 - 📚 Cursando Ciência da Computação
-- ⏳ Estudando JavaScript
+- ⏳ Consolidando JavaScript
 - 🌐 Estudando React
 - 🎓Formado em Finanças
 
