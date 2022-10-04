@@ -7,9 +7,11 @@
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=aa3b28&style=flat%22%20alt=%22matealves" /></p>
 
- <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matealves&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mateus Alves' github stats" /></a> 
+ <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matealves&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Mateus Alves' github stats" /></a> 
  
-  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=dracula&hide_border=true" /></a>
+  
+  <!-- light-theme: buefy -->
  
   <div style="display: inline_block"><br>
   <!--<img align="center" alt="Mateus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">-->
@@ -41,4 +43,4 @@
   ![Snake animation](https://github.com/matealves/matealves/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20alt=%22matealves%22"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20alt=%22matealves%22"/></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20alt=%22matealves%22"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20alt=%22matealves%22&theme=dracula"/></a>
