@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Mateus Alves
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=DD6387&vCenter=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+
 - 📚 Cursando Sistemas de Informação
-- ⏳ Consolidando JavaScript
+- 🛠️ Consolidando JavaScript
 - 🌐 Estudando React
 - 🎓Formado em Finanças
 <br/>
