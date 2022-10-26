@@ -7,7 +7,7 @@
 - 🌐 Estudando React
 - 🎓Formado em Finanças
 <br/>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=aa3b28&style=flat%22%20alt=%22matealves" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=dd6387&style=flat%22%20alt=%22matealves" /></p>
 
  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matealves&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Mateus Alves' github stats" /></a> 
  
