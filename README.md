@@ -1,4 +1,6 @@
-### Olá! Eu sou o Mateus Alves
+ <!-- ### Olá! Eu sou o Mateus Alves -->
+
+<h1 align="center">Olá, sou Mateus Alves</a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=DD6387&vCenter=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
