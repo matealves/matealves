@@ -48,7 +48,7 @@
   <a href = "mailto:contatomateusalves@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=+5511966616365" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=dracula" target="_blank"></a>
  
-  ![Snake animation](https://github.com/matealves/matealves/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/matealves/matealves/blob/output/github-contribution-grid-snake.svg) -->
 </div>
-
+<br>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20alt=%22matealves%22"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20alt=%22matealves%22&theme=dracula"/></a>
