@@ -11,7 +11,7 @@
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=dd6387&style=flat%22%20title=%22matealves" /></p>
  
-  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=dracula&hide_border=true" /></a>
+  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=dracula&hide_border=true&langs_count=8" /></a>
   
    <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matealves&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" title="Mateus Alves' github stats" /></a> 
   
