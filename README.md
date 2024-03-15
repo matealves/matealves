@@ -1,13 +1,13 @@
  <!-- ### Olá! Eu sou o Mateus Alves -->
 
-<h1 align="center">Olá, sou Mateus Alves</a>  <!-- <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /> --></h1>
+<h1 align="center">Hello, I'm Alves</a>  <!-- <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /> --></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=DD6387&vCenter=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
-- 📚 Cursando Sistemas de Informação
-- 🛠️ Consolidando JavaScript
-- 🌐 Estudando React e NodeJs
-- 🎓Formado em Finanças
+- ⚙️ principal language: JavaScript / TypeScript
+- 🌐 studying: React e Node.js
+- 📚 studying: Bachelor in Information Systems
+- 🎓 graduate in Finanças
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=dd6387&style=flat%22%20title=%22matealves" /></p>
  
