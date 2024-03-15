@@ -4,10 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=DD6387&vCenter=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
-- ⚙️ principal language: JavaScript / TypeScript
-- 🌐 studying: React e Node.js
-- 📚 studying: Bachelor in Information Systems
-- 🎓 graduate in Finanças
+- ⚙️ Principal language: JavaScript / TypeScript;
+- 🌐 Studying: React e Node.js;
+- 📚 Studying: Bachelor in Information Systems;
+- 🎓 Graduate in Finance;
+- 📌 São Paulo / SP - Brazil.
+
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=dd6387&style=flat%22%20title=%22matealves" /></p>
  
