@@ -8,7 +8,6 @@
 - 🌐 Learning: React and Node.js;
 - 📚 Studying: Bachelor in Information Systems;
 - 🎓 Graduate in Finance;
-- 📌 São Paulo / SP - Brazil.
 
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=dd6387&style=flat%22%20title=%22matealves" /></p>
