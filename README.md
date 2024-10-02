@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=DD6387&vCenter=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
 - ⚙️ Principal language: JavaScript / TypeScript;
-- 🌐 Learning: React, Node.js and Java;
+- 🌐 Learning: React and Node.js;
 - 📚 Studying: Bachelor in Information Systems;
 - 🎓 Graduate in Finance;
 
