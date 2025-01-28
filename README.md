@@ -2,7 +2,8 @@
 
 <h1 align="center">Hello, I'm Alves</a>  <!-- <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /> --></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=DD6387&vCenter=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=DD6387&vCenter=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Full-Stack+Developer)](https://git.io/typing-svg)
 
 - ⚙️ Principal language: JavaScript / TypeScript;
 - 🌐 Learning: React and Node.js;
@@ -10,7 +11,7 @@
 - 🎓 Graduate in Finance;
 
 <br/>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=dd6387&style=flat%22%20title=%22matealves" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=36BCF7&style=flat%22%20title=%22matealves" /></p>
 
 [>> PERSONAL PORTFOLIO](https://mateusalves.vercel.app/) <br><br>
  
