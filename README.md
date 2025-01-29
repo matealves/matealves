@@ -58,4 +58,4 @@
   <!-- ![Snake animation](https://github.com/matealves/matealves/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 <br>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20title=%22matealves%22"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20title=%22matealves%22&theme=dracula"/></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20title=%22matealves%22"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20title=%22matealves%22&theme=tokyonight"/></a>
