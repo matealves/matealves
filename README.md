@@ -7,7 +7,7 @@
 
 - ⚙️ Principal language: JavaScript | TypeScript | NodeJS;
 - ☕ Learning: Java + Spring Boot;
-- 🎓 Bachelor in Information Systems and Financial Management.
+- 🎓 Bachelor in Information Systems and Technologist in Financial Management.
 
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=36BCF7&style=flat%22%20title=%22matealves" /></p>
