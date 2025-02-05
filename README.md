@@ -5,10 +5,9 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=5000&color=DD6387&vCenter=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Full-Stack+Developer)](https://git.io/typing-svg)
 
-- ⚙️ Principal language: JavaScript / TypeScript;
+- ⚙️ Principal language: JavaScript | TypeScript | NodeJS;
 - ☕ Learning: Java + Spring Boot;
-- 📚 Studying: Bachelor in Information Systems;
-- 🎓 Graduate in Finance;
+- 🎓 Studying: Bachelor in Information Systems and Financial Management.
 
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=matealves&label=Profile%20views&color=36BCF7&style=flat%22%20title=%22matealves" /></p>
