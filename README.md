@@ -24,10 +24,11 @@
  
   <div style="display: inline_block"><br>
   <img align="center" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" title="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
+<!--   <img align="center" title="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"> -->
   <img align="center" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" title="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img  align="center" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img  align="center" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
  <img  align="center" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
@@ -56,5 +57,5 @@
  
   <!-- ![Snake animation](https://github.com/matealves/matealves/blob/output/github-contribution-grid-snake.svg) -->
 </div>
-<br>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20title=%22matealves%22"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20title=%22matealves%22&theme=tokyonight"/></a>
+<!-- <br> -->
+<!--   <a href="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20title=%22matealves%22"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20title=%22matealves%22&theme=tokyonight"/></a> -->
