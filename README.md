@@ -6,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Full-Stack+Developer)](https://git.io/typing-svg)
 
 - ⚙️ Principal language: JavaScript | TypeScript | NodeJS;
-- ☕ Learning: Java + Spring Boot;
 - 🎓 Bachelor in Information Systems and Technologist in Financial Management.
 
 <br/>
@@ -14,7 +13,7 @@
 
 [>> PERSONAL PORTFOLIO](https://mateusalves.vercel.app/) <br><br>
  
-  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></a>
+ <!-- <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></a> -->
   
    <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matealves&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" title="Mateus Alves' github stats" /></a> 
   
@@ -28,7 +27,7 @@
   <img align="center" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" title="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <!-- <img align="center" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -->
   <img  align="center" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img  align="center" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
  <img  align="center" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
