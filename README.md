@@ -13,9 +13,9 @@
 
 [>> PERSONAL PORTFOLIO](https://mateusalves.vercel.app/) <br><br>
  
- <!-- <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></a> -->
+ <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /></a> 
   
-   <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matealves&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" title="Mateus Alves' github stats" /></a> 
+ <!-- <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matealves&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" title="Mateus Alves' github stats" /></a> --> 
   
   <!-- light-theme: buefy -->
   <!-- dark-theme: dracula -->
