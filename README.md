@@ -55,9 +55,7 @@ Sou movido por desafios, aprendizado contínuo e um forte compromisso com qualid
 
 <br>
 
-### Contato
-
----
+## Contato
 
 <br>
 <p align="">
