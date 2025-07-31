@@ -37,7 +37,7 @@ Sou movido por desafios, aprendizado contínuo e um forte compromisso com qualid
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker,terraform,aws,azure&theme=dark" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker,terraform,aws&theme=dark" alt="Skills"/>
   </a>
 </p>
 <br>
