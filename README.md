@@ -42,16 +42,16 @@ Sou movido por desafios, aprendizado contínuo e um forte compromisso com qualid
 </p>
 <br>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
   <!-- light-theme: buefy -->
   <!-- dark-theme: dracula -->
   <!-- dark-theme: tokyonight -->
 
-<p align="">
+<!--<p align="">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matealves&show_icons=true&theme=tokyonight" alt="Mateus Alves GitHub Stats"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
-</p>
+</p>-->
 
 <br>
 
