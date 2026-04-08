@@ -9,7 +9,6 @@ Sou movido por desafios, aprendizado contínuo e um forte compromisso com qualid
 
 - ⚙️ Desenvolvedor Full Stack
 - 🎓 Bacharel em Sistemas de Informação
-- 📚 Estudando NestJS, Testes com Jest, MongoDB, AWS e Terraform.
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 #### [Link -> Portifólio Web](https://mateusalves.vercel.app/)
