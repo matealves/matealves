@@ -1,7 +1,7 @@
 <h1 align="">Olá, sou o Mateus Alves!</h1>
 
 Desenvolvedor de Software desde 2022, com foco em aplicações web escaláveis e de alto impacto.<br>
-Tenho focado meus estudos em <strong>System Design, bando de dados, infra / cloud e IA</strong>.
+Tenho focado meus estudos em <strong>System Design, Banco de Dados, Iac, AWS e IA</strong>.
 Sou movido por desafios, aprendizado contínuo e um forte compromisso com qualidade de código, arquitetura limpa e boas práticas..
 <br><br>
 
